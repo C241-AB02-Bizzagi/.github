@@ -2,13 +2,13 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <div align="center">
-  <img src="(https://www.dicoding.com/img/bangkit/logo.svg)](https://drive.google.com/file/d/18nUamr8NVxIpIkxcrraRIOQIAt4Lv2cd/view?usp=drive_link)" alt="Company Logo" width="200" height="200">
+  <img src="imagess/Bangkit logo.png" alt="Company Logo" width="600" height="200">
   <h1>Company-Track-Capstone</h1>
   <p><strong>"C241-AB02"</strong></p>
 </div>
 
 ## Overview
-logo aspectra
+<img src="imagess/Aspectra Logo.jpg" alt="Aspectra Logo" width="200" height="200">
 
 ## ASPECTRA📊 by C241-AB02
 
