@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <div align="center">
-  <img src="https://github.com/C241-AB02-Bizzagi/.github/blob/main/imagess/Bangkit%20Logo.png?raw=true" alt="Company Logo" width="600" height="200">
+  <img src="https://github.com/C241-AB02-Bizzagi/.github/blob/main/imagess/Bangkit%20logo.png?raw=true" alt="Company Logo" width="400" height="200">
   <h1>Company-Track-Capstone</h1>
   <p><strong>"C241-AB02"</strong></p>
 </div>
