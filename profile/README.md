@@ -25,8 +25,8 @@ ASPECTRA is an aspect-based sentiment analysis website that can analyze the emot
 
 | Name | ID | Learning Path | University |
 | --- | --- | --- | --- |
-| Vanessa Novalia | M315D4KX2982 | Machine Learning | Universitas Sriwijaya |
-| Najwa Salsabila | M315D4KX2193 | Machine Learning | Universitas Sriwijaya |
+| [Vanessa Novalia](https://www.linkedin.com/in/vanessanovalia) | M315D4KX2982 | Machine Learning | Universitas Sriwijaya |
+| [Najwa Salsabila](https://www.linkedin.com/in/najwas) | M315D4KX2193 | Machine Learning | Universitas Sriwijaya |
 | Ahmad Sugama Farizim | C315D4KY0227 | Cloud Computing | Universitas Sriwijaya |
 | Victor Timothy Jude Sinaga | C553D4KY1084 | Cloud Computing | Universitas Advent Indonesia |
 
