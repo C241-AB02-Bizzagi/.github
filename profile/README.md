@@ -2,15 +2,15 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <div align="center">
-  <img src="imagess/Bangkit logo.png" alt="Company Logo" width="600" height="200">
+  <img src="https://github.com/C241-AB02-Bizzagi/.github/blob/main/imagess/Bangkit%20Logo.png?raw=true" alt="Company Logo" width="600" height="200">
   <h1>Company-Track-Capstone</h1>
   <p><strong>"C241-AB02"</strong></p>
 </div>
 
 ## Overview
-<img src="imagess/Aspectra Logo.jpg" alt="Aspectra Logo" width="200" height="200">
+ <img src="https://github.com/C241-AB02-Bizzagi/.github/blob/main/imagess/Aspectra%20Logo.jpg?raw=true">
 
-## ASPECTRA📊 by C241-AB02
+## ASPECTRA📊 
 
 ASPECTRA is an aspect-based sentiment analysis website that can analyze the emotions of each aspect talked in customer reviews. On this website there are four categories of aspects according to the company's needs, namely taste, service, place and price.
 
