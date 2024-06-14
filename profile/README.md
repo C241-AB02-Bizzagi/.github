@@ -18,7 +18,6 @@ ASPECTRA is an aspect-based sentiment analysis website that can analyze the emot
 - [Overview](#overview)
 - [ASPECTRA📊 by C241-AB02](#aspectra-by-c241-ab02)
 - [People Behind ASPECTRA👨🏻‍💻👩🏻‍💻](#people-behind-aspectra)
-- [Web App](#web-app)
 
 
 ## People Behind ASPECTRA👨🏻‍💻👩🏻‍💻
@@ -30,5 +29,4 @@ ASPECTRA is an aspect-based sentiment analysis website that can analyze the emot
 | [Ahmad Sugama Farizim](https://www.linkedin.com/in/ahmad-sugama-farizim-235677295/) | C315D4KY0227 | Cloud Computing | Universitas Sriwijaya |
 | [Victor Timothy Jude Sinaga](https://www.linkedin.com/in/victor-timothy-jude-sinaga-94892327b/) | C553D4KY1084 | Cloud Computing | Universitas Advent Indonesia |
 
-## Web App
 
